@@ -1,0 +1,12 @@
+PODS:
+  - MusicSearch-Framework (0.1.0)
+
+DEPENDENCIES:
+  - MusicSearch-Framework
+
+SPEC CHECKSUMS:
+  MusicSearch-Framework: b366a898f16bb4cb01d15b1a43eb6650fb3ccca9
+
+PODFILE CHECKSUM: 79f5e562f0ed51e49cc08b2cd8929f377f8f4638
+
+COCOAPODS: 1.4.0.beta.2
